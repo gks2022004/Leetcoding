@@ -1,3 +1,7 @@
+#include<iostream>
+#include<vector>
+using namespace std;
+
 class Solution {
 public:
         void moveZeroes(vector<int>& nums) {
@@ -14,6 +18,14 @@ public:
         i++;
     }
 }
+int main() {
+  
+    
+
+    return 0;
+}
+
+
 
    
 };
